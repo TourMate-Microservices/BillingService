@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TourMate.BillingService.Repositories\TourMate.BillingService.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>
